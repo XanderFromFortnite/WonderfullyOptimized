@@ -5,4 +5,6 @@ You can use our capes over [MinecraftCapes](https://minecraftcapes.net/gallery/0
 
 The mods for this modpack updates every 5 **VERSIONS OF THIS MODPACK**
 
+Get modpack file [here](https://github.com/IGNavais/WonderfullyOptimized/releases)
+
 This GitHub is WIP
