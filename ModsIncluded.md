@@ -3,7 +3,6 @@
 
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric)
 - [More Culling](https://modrinth.com/mod/moreculling)
-- [_No Chat Reports_](https://modrinth.com/mod/no-chat-reports) everyone hates chat reporting so I put this mod inside this modpack, **this mod does not give a FPS boost**, even tho this is a FPS modpack
 - [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) removed in 3.0
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves)
@@ -32,3 +31,10 @@
 - [Lithium](https://modrinth.com/mod/lithium) added in 3.0
 - [Ksyxis](https://modrinth.com/mod/ksyxis) added in 4.0
 - [RetiNO](https://modrinth.com/mod/retino) added in 4.0
+- [FastChest](https://github.com/FakeDomi/FastChest) added in 6.0
+- [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) added in 6.0
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) added in 6.0
+- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/) added in 7.0
+- [Alternate Current](https://modrinth.com/mod/alternate-current/) added in 7.0
+- [Smoke Suppression](https://modrinth.com/mod/smoke-suppression/) added in 7.0
+- [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade/) added in 7.0
