@@ -7,8 +7,6 @@ A QuiltMC modpack to heavily optimize the game.
 
 [Discord](https://discord.gg/UyYUgAQnJm)_![](https://img.shields.io/discord/1012116214866264074?style=for-the-badge)
 
-The mods for this modpack updates every 5 **VERSIONS OF THIS MODPACK**
-
 Get modpack file [here](https://github.com/IGNavais/WonderfullyOptimized/releases)
 
 This GitHub is WIP
