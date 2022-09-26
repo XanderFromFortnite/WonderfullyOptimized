@@ -21,4 +21,4 @@ A: Wonderfully Optimized is a QoL modpack
 
 - Q: How many time does the mods update in this modpack?
 
-A: Every 5 version of Wonderfully Optimized
+A: Every 3 version of Wonderfully Optimized
