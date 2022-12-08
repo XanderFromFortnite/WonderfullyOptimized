@@ -29,7 +29,7 @@
 - [Krypton](https://modrinth.com/mod/krypton) added in 2.0
 - [Better Beds](https://modrinth.com/mod/better-beds) added in 2.0
 - [Lithium](https://modrinth.com/mod/lithium) added in 3.0
-- [Ksyxis](https://modrinth.com/mod/ksyxis) added in 4.0, replace by [Fastload](https://modrinth.com/mod/fastload) added in 9.0
+- [Ksyxis](https://modrinth.com/mod/ksyxis) added in 4.0, replaced by [Fastload](https://modrinth.com/mod/fastload) which was added in 9.0
 - [RetiNO](https://modrinth.com/mod/retino) added in 4.0
 - [FastChest](https://github.com/FakeDomi/FastChest) added in 6.0
 - [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) added in 6.0
