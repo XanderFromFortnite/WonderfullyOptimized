@@ -17,7 +17,7 @@
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) removed in 4.0
 - [Indium](https://modrinth.com/mod/indium) removed in 4.0
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
-- [Mod Menu](https://modrinth.com/mod/modmenu) removed in 2.0
+- [Mod Menu](https://modrinth.com/mod/modmenu) removed in 2.0, was added back in 10.0
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qsl)
 
