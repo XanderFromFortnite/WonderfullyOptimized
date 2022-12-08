@@ -35,7 +35,7 @@
 - [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) added in 6.0
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) added in 6.0
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/) added in 7.0
-- [Smoke Suppression](https://modrinth.com/mod/smoke-suppression/) added in 7.0
+- [Smoke Suppression](https://modrinth.com/mod/smoke-suppression/) added in 7.0, removed in 10.0
 - [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade/) added in 7.0
 - [McMouser](https://modrinth.com/mod/mcmouser) added in 8.0
 - [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) added in 8.0
