@@ -1,4 +1,4 @@
-A QuiltMC modpack to heavily optimize the game.
+A QuiltMC modpack that heavily optimized Minecraft.
 
 # [Wonderfully Optimized](https://modrinth.com/modpack/wonderfully)
 [Wonderfully Optimized](https://modrinth.com/modpack/wonderfully) is a FPS modpack made for the [QuiltMC](https://quiltmc.org/) Modloader. Here is all of the [mods](https://github.com/IGNavais/WonderfullyOptimized/blob/main/ModsIncluded.md) in this modpack
@@ -10,15 +10,3 @@ A QuiltMC modpack to heavily optimize the game.
 Get modpack file [here](https://github.com/IGNavais/WonderfullyOptimized/releases)
 
 This GitHub is WIP
-
-
-
-Q&A:
-
-- Q: is Wonderfully Optimized a QoL modpack
-
-A: Wonderfully Optimized is a QoL modpack
-
-- Q: How often do you update the mods in this modpack?
-
-A: When I feel like to update the modpack
